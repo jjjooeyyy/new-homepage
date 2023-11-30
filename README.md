@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://news-homepage-createreact.vercel.app/)
+- Live Site URL: [Visit Site](https://news-homepage-createreact.vercel.app/)
 
 ## My process
 
